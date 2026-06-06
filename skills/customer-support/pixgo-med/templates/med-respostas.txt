@@ -1,0 +1,121 @@
+=== MODELOS DE RESPOSTA MED - PIXGO ===
+
+Use como base, variando vocabulário entre respostas consecutivas.
+
+---
+
+## TIPO 1: Cliente enviou documentos com anexos
+
+Prezado(a),
+
+Recebemos os documentos enviados para contestação do MED do pedido [ID].
+
+Os arquivos foram registrados e seguirão para análise. Esclarecemos que o MED (Mecanismo Especial de Devolução) é um recurso instituído pelo Banco Central do Brasil — a análise e decisão final sobre o processo são de responsabilidade exclusiva da adquirente ou banco envolvido. A PixGo atua como interface tecnológica entre o estabelecimento e as instituições financeiras.
+
+O prazo estimado de retorno é de 15 a 20 dias úteis.
+
+Atenciosamente,
+Eduardo Cabral
+Gerente de Contas
+
+---
+
+## TIPO 2: Cliente sem contato / número errado (SEM anexos)
+
+Prezado(a),
+
+Recebemos sua mensagem referente ao MED da transação #[ID].
+
+Para que possamos dar andamento à contestação, é necessário o envio de documentos que comprovem a tentativa de contato com o cliente, como prints de tentativas de WhatsApp ou registros de que o número informado estava incorreto.
+
+O MED (Mecanismo Especial de Devolução) é um recurso do Banco Central que permite ao titular do cartão contestar uma transação. A PixGo atua como interface tecnológica entre o estabelecimento e as instituições financeiras — realizamos o envio da documentação, mas a análise e decisão final cabem exclusivamente à adquirente ou banco envolvido.
+
+Sem documentação comprobatória, a possibilidade de reverter o MED é reduzida.
+
+Atenciosamente,
+Eduardo Cabral
+Gerente de Contas
+
+---
+
+## TIPO 3: Cliente desistiu / não quis o produto
+
+Prezado(a),
+
+Recebemos sua solicitação referente ao MED da transação #[ID].
+
+Esclarecemos que o MED (Mecanismo Especial de Devolução) precisa ser avaliado e analisado pelas instituições responsáveis — adquirente e banco emissor. A PixGo atua como interface tecnológica entre o estabelecimento e as instituições financeiras, realizando o envio da documentação, mas a decisão final cabe às instituições responsáveis. Independentemente de acordos entre as partes, o processo segue o fluxo regulatório do Banco Central.
+
+Documentos que comprovem a desistência do cliente podem ser enviados para compor o processo de contestação.
+
+O prazo estimado de retorno é de 15 a 20 dias úteis.
+
+Atenciosamente,
+Eduardo Cabral
+Gerente de Contas
+
+---
+
+## TIPO 4: Cliente retirou MED mas valor não voltou
+
+Prezado(a),
+
+Recebemos sua mensagem referente ao MED da transação #[ID].
+
+Informamos que, mesmo quando o cliente solicita o cancelamento do MED junto ao banco emissor, o processo ainda precisa passar pela investigação e análise dos órgãos responsáveis — adquirente e instituição financeira. O MED segue um fluxo regulado pelo Banco Central, e a confirmação oficial do cancelamento precisa ser processada internamente antes do valor ser liberado.
+
+A PixGo atua como interface tecnológica entre o estabelecimento e as instituições financeiras. O prazo médio para conciliação é de 15 a 20 dias úteis a partir da confirmação do cancelamento.
+
+Atenciosamente,
+Eduardo Cabral
+Gerente de Contas
+
+---
+
+## TIPO 5: Cliente com defesa completa por escrito
+
+Prezado(a),
+
+Recebemos os documentos e a defesa referentes ao MED do pedido [ID].
+
+A documentação foi registrada e constará integralmente no processo de contestação a ser encaminhado à instituição financeira responsável.
+
+O MED (Mecanismo Especial de Devolução) é regulado pelo Banco Central. A PixGo atua como interface tecnológica entre o estabelecimento e as adquirentes — realizamos o envio da documentação, mas a análise e decisão final sobre a procedência ou não do MED são de responsabilidade exclusiva da instituição financeira envolvida.
+
+O prazo estimado de retorno é de 15 a 20 dias úteis.
+
+Atenciosamente,
+Eduardo Cabral
+Gerente de Contas
+
+---
+
+## TIPO 6: Cliente pergunta sobre andamento
+
+Prezado(a),
+
+Recebemos sua mensagem referente ao MED da transação #[ID].
+
+O processo segue em análise pela instituição financeira responsável. Mesmo com a retirada da contestação pelo cliente, o caso precisa passar pela validação oficial da adquirente antes do valor ser liberado.
+
+A PixGo atua como interface tecnológica e não possui autonomia para acelerar o trâmite, que segue o fluxo regulatório do Banco Central. O prazo estimado de retorno é de 15 a 20 dias úteis.
+
+Atenciosamente,
+Eduardo Cabral
+Gerente de Contas
+
+---
+
+## TIPO 7: Explicação completa do que é MED
+
+Prezado(a),
+
+O MED (Mecanismo Especial de Devolução) é um instrumento instituído pelo Banco Central do Brasil que permite ao portador do cartão contestar uma transação diretamente com sua instituição financeira. Quando o MED é aberto, ele passa por uma investigação conduzida pelos órgãos responsáveis — adquirente e banco emissor — que avaliam as evidências de ambas as partes antes de decidir pela procedência ou não da contestação.
+
+A PixGo atua como interface tecnológica entre o estabelecimento e as instituições financeiras. Realizamos o envio da documentação, mas a análise e a decisão final são de responsabilidade exclusiva da adquirente ou banco envolvido. Essa investigação independe de qualquer acordo entre as partes.
+
+O prazo estimado de retorno é de 15 a 20 dias úteis.
+
+Atenciosamente,
+Eduardo Cabral
+Gerente de Contas

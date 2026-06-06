@@ -1,0 +1,70 @@
+# PIXGO - GUIA COMPLETO DO BLOG OFICIAL
+Fonte: https://pixgo.org/blog (acessado Jun/2026)
+
+## VISÃO GERAL
+PixGo converte PIX em DEPIX (stablecoin 1:1 BRL na Liquid Network).
+Autocustódia: você controla a seed/chave privada.
+PSPs regulados BCB: Fitbank (CNPJ 13.203.354/0001-00) e PLEBANK (CNPJ 43.375.652/0001-13).
+
+## D+1 (LIQUIDAÇÃO)
+DEPIX cai na carteira até o FINAL do dia seguinte (corrido, não útil).
+NÃO existe D+0. Inclui sábado, domingo, feriado.
+Tabela: Seg->Ter, Ter->Qua, Qua->Qui, Qui->Sex, Sex->Sab, Sab->Dom, Dom->Seg.
+
+## TAXAS
+2% sobre o valor (acima de R$50). 2% + R$1 (abaixo de R$50). R$0,50 Gas Station p/ enviar.
+Sem mensalidade, fidelidade ou multa.
+
+## LIMITES (7 NÍVEIS)
+Iniciante R$300 → Bronze R$500 → Prata R$800 → Ouro R$1.200 → Platina R$2.000 → Diamante R$2.500 → Elite R$3.000/dia.
+Teto adicional: R$6.000/dia por CPF pagador. Regra: 3 PIX em 30min.
+MED perdido (refunded) reduz volume acumulado para progressão.
+
+## QR CODE
+Avulso: 20min fixo. Loja: 30min configurável (5min-24h). API: configurável até 24h.
+Reemissão gratuita e ilimitada. Link da Loja (pixgo.org/pay/ID) reaproveita automaticamente.
+
+## WALLET PIXGO
+Multi-chain (Liquid + Bitcoin + 7 EVM). Autocustódia (12 palavras seed).
+Botão Pix, Buy Crypto, Swap, Gas Station, cartão Ether.fi.
+Seed NUNCA em foto/nuvem — anotar em papel.
+
+## COMO SACAR DEPIX (4 CAMINHOS)
+1. Botão Pix da Wallet → PIX direto
+2. CryPix (crypix.me) → exchange parceira
+3. BRSwap + cartão Ether.fi → swap + cartão
+4. Peg Out → Bitcoin nativo
+
+## GAS STATION
+L-BTC necessário como gas na Liquid. PixGo converte DEPIX → L-BTC em 1 clique.
+Custo: ~R$0,50 por transação.
+
+## MED (completo)
+Criado pelo BCB. Cliente contesta no banco dele (até 80 dias).
+Você tem 5 DIAS CORRIDOS para responder ao EMAIL (responder, não encaminhar).
+Análise pelo banco: 5-15 dias úteis.
+NÃO abrir chamado — responder direto ao email.
+NÃO ignorar — múltiplos MEDs sem defesa = suspensão.
+CPF do cliente bloqueado permanentemente após MED.
+
+3 caminhos: (1) MED = cliente inicia, banco decide; (2) Estorno voluntário = você inicia, PixGo processa; (3) Reversão automática = sistema, sem defesa.
+
+## BANCO ACUSA CONTA SUSPEITA
+"Fitbank" no comprovante é NORMAL. Script p/ cliente: explicar que é PSP regulado BCB.
+Se banco travar: tentar de novo, usar outro banco, internet banking, ligar pro banco.
+
+## API
+POST /api/v1/payments — criar cobrança
+GET /api/v1/payments/{id} — consultar status
+DELETE /api/v1/payments/{id} — cancelar
+Parâmetros: amount_cents, expires_in_seconds (max 86400), description.
+Recorrência disponível via API.
+
+## LIQUID NETWORK
+Sidechain do Bitcoin. Transações em 1-2 min. Taxa ~R$0,50.
+Ativo nativo: L-BTC (gas). DEPIX é token L-BTC-20.
+Endereço: lq1... ou VJL...
+
+## DECLARAÇÃO IR
+Declarar como criptoativo (Grupo 08 - Criptoativos).
+Acima de R$30k/mês: obrigatório. Abaixo: recomendado.

@@ -1,0 +1,9 @@
+{
+  "last_report_path": "C:\\Users\\PC\\AppData\\Local\\hermes\\logs\\curator\\20260530-185623",
+  "last_run_at": "2026-05-30T18:56:23.757925+00:00",
+  "last_run_duration_seconds": 131.752048,
+  "last_run_summary": "auto: no changes; llm: Memory not available in this environment. No problem.\n\nHere's the full summary:\n\n---\n\n## Curation Complete\n\n### Cluster Processed: Crypto Market Content (3 skills → 1 umbrella)\n\n**Old skills identified as a cluster:**\n- `crypto-fundamental-…\narchived 3 skill(s):\n  • crypto-fundamental-research — pruned (stale)\n  • crypto-news-posting — pruned (stale)\n  • crypto-technical-analysis — pruned (stale)\nfull report: hermes curator status",
+  "last_run_summary_shown_at": null,
+  "paused": false,
+  "run_count": 1
+}
