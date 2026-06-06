@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: t800-pixgo
+    env: docker
+    dockerContext: .
+    dockerfilePath: ./Dockerfile
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: EMAIL_USERNAME
+        value: "noreply@pixgo.me"
+      - key: EMAIL_PASSWORD
+        sync: false
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: GATEWAY_ALLOW_ALL_USERS
+        value: "true"
